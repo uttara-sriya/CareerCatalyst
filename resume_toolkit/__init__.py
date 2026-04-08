@@ -1,1 +1,1 @@
-from resume_agent.agent import root_agent
+from resume_toolkit.agent import root_agent
