@@ -48,7 +48,7 @@ uvx --from google-adk==1.14.0 \
 adk deploy cloud_run \
   --project=$PROJECT_ID \
   --region=europe-west1 \
-  --service_name=ats \
+  --service_name=career-sa \
   --with_ui \
   . \
   -- \
